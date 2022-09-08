@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Create a Document
+# Mint
 
 Documents are **groups of pages** connected through:
 
@@ -53,5 +53,5 @@ module.exports = {
       items: ['tutorial-basics/create-a-document'],
     },
   ],
-};
+}
 ```
