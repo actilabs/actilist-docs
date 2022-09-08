@@ -94,15 +94,15 @@ const config = {
             items: [
               {
                 label: 'Telegram',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://t.me/actilist',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/uPxGvqJErz',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/ActiNFT',
               },
             ],
           },
