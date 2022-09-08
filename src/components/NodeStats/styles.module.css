@@ -1,0 +1,51 @@
+.statCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid var(--ifm-color-gray-500);
+
+  padding: 16px;
+  min-width: 280px;
+  max-width: 280px;
+  min-height: 120px;
+}
+.statCard h2 {
+  font-size: 40px;
+  margin: 0;
+}
+.statCard p {
+  margin: 0;
+}
+.icon {
+  width: 50px;
+  color: #ff6510;
+}
+
+.loader {
+  border: 4px solid #ccc;
+  border-radius: 50%;
+  border-top: 4px solid #ff6510;
+  width: 60px;
+  height: 60px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
