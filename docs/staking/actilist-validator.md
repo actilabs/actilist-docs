@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# Node Stats
+# ActiList Validator
 
 import NodeMetrics from '../../src/components/NodeStats'
 
