@@ -74,7 +74,7 @@ const NodeMetrics = () => {
             ),
           },
           Uptime: {
-            value: actilistNode.uptime,
+            value: 100 / actilistNode.uptime + ' %',
             icon: (
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -129,7 +129,7 @@ const NodeMetrics = () => {
             flexWrap: 'wrap',
           }} /* class={styles.loader} */
         >
-          {[1, 2, 3, 4, 5].map((el) => (
+          {[1, 2, 3, 4, 5, 6].map((el) => (
             <Stat loader={<div className={styles.loader} />} />
           ))}
         </div>
@@ -143,6 +143,30 @@ const NodeMetrics = () => {
               value={nodeMetrics[stat].value}
             />
           ))}
+          <Stat
+            label="Want to gelegate to us?"
+            value={
+              <a
+                href="https://wallet.keplr.app/chains/secret-network"
+                target="_blank"
+              >
+                <button
+                  style={{
+                    padding: '16px 24px',
+                    backgroundColor: '#ff6510',
+                    borderRadius: '8px',
+                    border: 'none',
+                    fontSize: '16px',
+                    color: '#fff',
+                    fontWeight: 'bold',
+                    cursor: 'pointer',
+                  }}
+                >
+                  Delegate
+                </button>
+              </a>
+            }
+          />
         </div>
       )}
     </div>
