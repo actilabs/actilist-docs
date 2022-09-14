@@ -2,9 +2,14 @@
 sidebar_position: 1
 ---
 
-# Welcome
+# ActiList - Secret NFT Auctions
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the ActiList dapp featuring Secret NFT auctions. 
+It has been our pleasure to pioneer privacy on blockchain as it is the most fundamental human right and makes users the true owners of their data.
+Data privacy is fundamentally important and this applies in particular in the domain of NFTs. 
+NFTs may contain a number of sensitive attributes such as ownership, transaction history, etc., that should not be publicly available unless NFT owner decides to reveal them to the public. 
+As ActiList runs on Secret Network blockchain any sensitive NFT metadata such as ownership and transaction history can be hidden by default, 
+but any attribute can be revealed to the public by NFT owner.
 
 ## Getting Started
 
