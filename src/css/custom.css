@@ -29,7 +29,12 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+article {
+  padding: 10px 40px;
+}
+
 .footer-icon {
   display: flex;
   gap: 8px;
+  color: #fff;
 }

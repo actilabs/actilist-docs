@@ -14,7 +14,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Secure',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Powered by Secret network',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/scrt.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
