@@ -85,8 +85,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'docs',
-                to: '/docs/intro',
+                label: 'Welcome',
+                to: '/docs/introduction',
               },
             ],
           },
@@ -211,7 +211,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2022 ActiList`,
+        copyright: `Copyright © 2022 All rights reserved by ActiList`,
       },
       prism: {
         theme: lightCodeTheme,
