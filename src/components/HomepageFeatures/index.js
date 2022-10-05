@@ -27,7 +27,7 @@ const FeatureList = [
     description: (
       <>
         We contribute to network's decentralization and security by running our own validator node.
-        You may support ActiList project by delegating SCRT tokens to our validator node <a href="https://wallet.keplr.app/chains/secret-network" target="_blank">ActiList</a>.
+        You may support ActiList project by delegating SCRT tokens to <a href="https://wallet.keplr.app/chains/secret-network" target="_blank">ActiList</a> validator node.
       </>
     ),
   },
