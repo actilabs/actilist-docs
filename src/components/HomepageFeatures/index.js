@@ -4,32 +4,30 @@ import styles from './styles.module.css'
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Welcome',
+    Svg: require('@site/static/img/actilogo.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        We are the first decentralized NFT marketplace with data privacy and gamified experience of puchasing NFT assets.  
       </>
     ),
   },
   {
-    title: 'Secure',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by Secret network',
+    title: 'Run on Secret Network',
     Svg: require('@site/static/img/scrt.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Secret Network is the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3.
+      </>
+    ),
+  },
+  {
+    title: 'Support Us',
+    Svg: require('@site/static/img/Image=Hands In.svg').default,
+    description: (
+      <>
+        We contribute to network's decentralization and security by running our own validator node.
+        You may support ActiList project by delegating SCRT tokens to our validator node "ActiList".
       </>
     ),
   },
