@@ -69,6 +69,7 @@ const config = {
             label: 'Docs',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
+          { to: 'https://test.actilist.co', label: 'App', position: 'left' },
 
           {
             href: 'https://github.com/actilabs/actilist-docs-app',
@@ -96,7 +97,7 @@ const config = {
               {
                 html: `
                 <div >
-                <a class="footer-icon" href="#">
+                <a class="footer-icon" href="https://discord.gg/uPxGvqJErz">
                 <svg
                 xmlns="http://www.w3.org/2000/svg"
                 xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -138,7 +139,7 @@ const config = {
               {
                 html: `
                 <div >
-                <a class="footer-icon" href="#">
+                <a class="footer-icon" href="https://twitter.com/actinft">
                 <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="25"
@@ -153,7 +154,7 @@ const config = {
                   fill="#ff6510"
                 />
               </svg>
-              <p>twitter</p>
+              <p>Twitter</p>
                 </a>
                 </div>
                 `,
@@ -161,7 +162,7 @@ const config = {
               {
                 html: `
                 <div>
-                <a  class="footer-icon" href="#">
+                <a  class="footer-icon" href="https://github.com/actilabs">
                 <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="25"
@@ -184,7 +185,7 @@ const config = {
               {
                 html: `
                 <div >
-                <a class="footer-icon" href="#">
+                <a class="footer-icon" href="https://t.me/actilist">
                 <svg width="25px" height="25px" version="1.1" 
                 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
                 xml:space="preserve" xmlns:serif="http://www.serif.com/" 
