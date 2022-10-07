@@ -10,4 +10,4 @@ ActiList currently supports desktop version and users need to have a wallet addr
 
 ## Explore The Auctions
 
-Check the <a href="https://www.youtube.com/watch?v=HgFWNJdD7-U&t=10s" target="_blank">home page</a> for the upcoming featured auctions. The most trending sales will be announced here well in advance so that you have time to plan those events. 
+Check <a href="https://www.youtube.com/watch?v=HgFWNJdD7-U&t=10s" target="_blank">home page</a> for the upcoming featured auctions. The most trending sales will be announced here well in advance so that you have time to plan those events. 
