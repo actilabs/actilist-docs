@@ -7,6 +7,8 @@ sidebar_label: Welcome
 
 Welcome to ActiList - the first trustless NFT marketplace with confidential bidding and customizable NFT access control. ActiList makes buying NFTs more interactive and engaging thanks to different types of auctions, and NFT owners for the first time have full access control over private sensitive attributes of their NFT assets. 
 
+![Intro banner](./banner.png)
+
 ActiList is the first of its kind trustless NFT marketplace providing unmatched level of data privacy to auction participants and perspective owners. Sensitive NFT metadata such as ownership details and transaction history are hidden by default, and only NFT owners can make this information public if there is a wish to do so. The same holds true for any data stored inside NFT. Full access controll over private NFT attributes starts a new era of NFT development making NFTs more like containers of value which can represent any sensitive data making NFT utility almost limitless.
 
 ActiList runs on Secret Network blockchain which is the state of the art infrastructure for running computations over encrypted data. Your private data inside NFT is encryted on hardware level with SGX technology and noone except you has access to it. You get to choose what you share, with whom, and how. Over time ActiList is going to provide portabilty for NFT assets from other popular blockhains, providing customizable privacy as additional feature to existing NFTs. We are privacy pioneers and want our users to be the true owners of their data. 
