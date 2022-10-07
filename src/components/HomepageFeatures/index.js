@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/actilogo.svg').default,
     description: (
       <>
-        We are the first decentralized NFT marketplace with data privacy and gamified experience of puchasing NFT assets.  
+        The first trustless NFT marketplace with confidential bidding and customizable NFT access control.
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/scrt.svg').default,
     description: (
       <>
-        Secret Network is the first blockchain with customizable privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3.
+        Secret Network is the state of the art blockchain for computational privacy. You get to choose what you share, with whom, and how. This protects users, and empowers developers to build a better Web3.
       </>
     ),
   },
