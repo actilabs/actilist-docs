@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Get Started
+# Getting Started
 
 ## Set Up New Account
 
