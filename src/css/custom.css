@@ -38,3 +38,7 @@ article {
   gap: 8px;
   color: #fff;
 }
+
+.theme-doc-sidebar-container {
+  background-color: #f4f3f0;
+}
