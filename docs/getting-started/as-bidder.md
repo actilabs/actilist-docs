@@ -4,14 +4,12 @@ sidebar_position: 1
 
 # As Bidder
 
-Documents are **groups of pages** connected through:
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+## Steps:
+### 1. Browse Live Auctions
+### 2. Place a Bid
 
-## Create your first Doc
+### 3. Follow Auction Progress
+### 4. (Optionally) Finalize Auction
 
-Create a Markdown file at `docs/hello.md`:
-
-```md title="docs/hello.md"
+### 5. View Your NFT Assets

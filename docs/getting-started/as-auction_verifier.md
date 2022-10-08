@@ -4,14 +4,7 @@ sidebar_position: 3
 
 # As Auction Verifier
 
-Documents are **groups of pages** connected through:
-
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
-
-## Create your first Doc
-
-Create a Markdown file at `docs/hello.md`:
-
-```md title="docs/hello.md"
+## Steps:
+### 1. Set Up Notifications
+### 2. Browse Unverified Auctions
+### 3. Verify Auctions
