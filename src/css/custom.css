@@ -47,3 +47,9 @@ article {
 .markdown h1:first-child {
   --ifm-h1-font-size: 2.5rem;
 }
+
+@media (max-width: 768px) {
+  article {
+    padding: 10px;
+  }
+}
