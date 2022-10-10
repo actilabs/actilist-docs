@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# As Bidder
+# Buy NFT
 
 As soon as auction starts and until it is finalized everyone can interact with it and participate in NFT auction sale.
 ## Steps:

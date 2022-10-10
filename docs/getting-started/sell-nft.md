@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# As Auction Creator
+# Sell NFT
 
 
 ## Steps:

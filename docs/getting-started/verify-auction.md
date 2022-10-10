@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# As Auction Verifier
+# Verify Auction
 
 ## Steps:
 ### 1. Set Up Notifications
