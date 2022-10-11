@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Buy NFT
+# Buy NFTs
 
 As soon as auction starts and until it is finalized everyone can interact with it and participate in NFT auction sale.
 ## Steps:
@@ -17,7 +17,7 @@ You can place a bid that is equal or greater than a minimum bid. Bid currency to
 You can see all your active and past bids in your personal dashboard under *<a href="https://test.actilist.co/dashboard/my-bids" target="_blank">Bids</a>* section. You need to be logged in to see your personal dashboard. That is probably the most convenient place to continue with your active bids. If auction allows additional actions then they can be performed from here.
 
 ### 4. (Optionally) Finalize Auction
-When auction's end time has been reached anyone may finalize it. At that point **Finalize** button will become anabled for anyone to press it. This step marks auction completion. The highest bid wins and NFT is directly transferred to the winner. Other bids are also directly returned to auction participants. The seller recieves the winning bid excluding royalties (usually a small percentage that is paid to NFT author from each sale). 
+When auction's end time has been reached anyone may finalize it. At that point **Finalize** button will become anabled for anyone to press it. This step marks the completion of auction sale. The highest bid wins and NFT is directly transferred to the winner. Other bids are also directly returned to auction participants. The seller recieves the winning bid excluding royalties (usually a small percentage that is paid to NFT author from each sale). 
 
 :::tip
 Auction will remain active and continue accepting bids even after end time is reached until any user or auction creator finalizes it.   
