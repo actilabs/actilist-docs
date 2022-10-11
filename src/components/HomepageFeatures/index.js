@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/actilogo.svg').default,
     description: (
       <>
-        The first trustless NFT marketplace with confidential bidding and customizable NFT access control.
+        The first interactive NFT marketplace with confidential bidding and customizable NFT access control.
       </>
     ),
   },
