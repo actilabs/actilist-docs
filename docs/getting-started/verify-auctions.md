@@ -10,5 +10,5 @@ First you need to set up Telegram notifications to be notified about newly creat
 ### 2. Browse Unverified Auctions
 You can find all unverified auctions in your personal dashboard under *<a href="https://test.actilist.co/dashboard/verifications" target="_blank">Verifications</a>* section. From here you can conveniently verify correctness of auction data and submit your review. 
 ### 3. Verify Auctions
-In the moment when auction sale is finalized all involved verified are paid their rewards.
+In the moment when auction sale is finalized all involved verifiers are paid their rewards.
 ![Select NFT](./verification.png)
