@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const config = {
   title: 'ActiList',
   tagline: 'Interactive NFT Marketplace with Secret Auctions',
-  url: 'https://test.actilist.co',
+  url: 'https://test.actilist.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -69,7 +69,7 @@ const config = {
             label: 'Docs',
           },
           // { to: '/blog', label: 'Blog', position: 'left' },
-          { to: 'https://test.actilist.co', label: 'App', position: 'left' },
+          { to: 'https://test.actilist.io', label: 'App', position: 'left' },
 
           {
             href: 'https://github.com/actilabs/actilist-docs-app',
