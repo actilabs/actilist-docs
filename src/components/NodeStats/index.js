@@ -144,7 +144,7 @@ const NodeMetrics = () => {
             />
           ))}
           <Stat
-            label="Want to gelegate to us?"
+            label="Stake with us"
             value={
               <a
                 href="https://wallet.keplr.app/chains/secret-network"
