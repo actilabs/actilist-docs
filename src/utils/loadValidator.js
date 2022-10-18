@@ -1,4 +1,5 @@
 const loadValidator = async () => {
+  if (typeof window === 'undefined') return null;
   let validator = JSON.parse(localStorage.getItem('actilistNode'));
   
   if (!validator) {
