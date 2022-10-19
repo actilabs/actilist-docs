@@ -4,8 +4,8 @@ import styles from './styles.module.css'
 
 const FeatureList = [
   {
-    title: 'Welcome',
-    Svg: require('@site/static/img/svg1.svg').default,
+    title: 'ACTILIST',
+    Svg: require('@site/static/img/actilist.svg').default,
     description: (
       <>
         Interactive NFT marketplace with confidential sales and customizable NFT access control.
