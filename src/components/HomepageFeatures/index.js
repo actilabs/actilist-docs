@@ -5,10 +5,10 @@ import styles from './styles.module.css'
 const FeatureList = [
   {
     title: 'Welcome',
-    Svg: require('@site/static/img/actilogo.svg').default,
+    Svg: require('@site/static/img/svg1.svg').default,
     description: (
       <>
-        The first interactive NFT marketplace with confidential bidding and customizable NFT access control.
+        Interactive NFT marketplace with confidential sales and customizable NFT access control.
       </>
     ),
   },
