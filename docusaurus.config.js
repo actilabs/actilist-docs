@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Hello Confidential NFT Sales',
+  title: 'Hello confidential NFT sales',
   tagline: 'You choose what you share, with whom, and how',
   url: 'https://test.actilist.io',
   baseUrl: '/',
