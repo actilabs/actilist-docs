@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Welcome
+sidebar_label: Intro
 ---
 
 # ActiList - Interactive NFT Marketplace with Secret Auctions and Access Control
