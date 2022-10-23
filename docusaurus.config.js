@@ -36,13 +36,13 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/actilabs/actilist-docs-app/tree/main',
+          editUrl: 'https://github.com/actilabs/actilist-docs/tree/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/actilabs/actilist-docs-app/tree/main',
+          editUrl: 'https://github.com/actilabs/actilist-docs/tree/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -72,7 +72,7 @@ const config = {
           { to: 'https://test.actilist.io', label: 'App', position: 'left' },
 
           {
-            href: 'https://github.com/actilabs/actilist-docs-app',
+            href: 'https://github.com/actilabs/actilist-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -97,7 +97,7 @@ const config = {
               {
                 html: `
                 <div >
-                <a class="footer-icon" href="https://twitter.com/actinft">
+                <a class="footer-icon" target="_blank" href="https://twitter.com/actinft">
                 <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="25"
@@ -120,7 +120,7 @@ const config = {
               {
                 html: `
                 <div >
-                <a class="footer-icon" href="https://t.me/actilist">
+                <a class="footer-icon" target="_blank" href="https://t.me/actilist">
                 <svg width="25px" height="25px" version="1.1" 
                 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
                 xml:space="preserve" xmlns:serif="http://www.serif.com/" 
@@ -134,7 +134,7 @@ const config = {
               {
                 html: `
                 <div >
-                <a class="footer-icon" href="https://discord.gg/uPxGvqJErz">
+                <a class="footer-icon" target="_blank" href="https://discord.gg/uPxGvqJErz">
                 <svg
                 xmlns="http://www.w3.org/2000/svg"
                 xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -176,7 +176,7 @@ const config = {
               {
                 html: `
                 <div>
-                <a  class="footer-icon" href="https://github.com/actilabs">
+                <a  class="footer-icon" target="_blank" href="https://github.com/actilabs">
                 <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="25"
@@ -207,7 +207,7 @@ const config = {
               // },
               {
                 label: 'GitHub',
-                href: 'https://github.com/actilabs/actilist-docs-app',
+                href: 'https://github.com/actilabs/actilist-docs',
               },
             ],
           },
