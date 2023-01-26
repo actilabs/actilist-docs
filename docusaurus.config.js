@@ -101,7 +101,7 @@ const config = {
               {
                 html: `
                 <div >
-                <a class="footer-icon" target="_blank" href="https://twitter.com/actinft">
+                <a class="footer-icon" target="_blank" href="https://twitter.com/actilist_dapp">
                 <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="25"
