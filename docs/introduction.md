@@ -5,7 +5,7 @@ sidebar_label: Intro
 
 # ActiList - Interactive NFT Marketplace with Secret Auctions and Access Control
 
-Welcome to ActiList - the first interactive NFT marketplace with confidential bidding and customizable NFT access control. ActiList makes buying NFTs more interactive and engaging thanks to different types of auctions, and NFT owners for the first time have full access control over private sensitive attributes of their NFT assets. 
+Welcome to ActiList - the first interactive NFT marketplace with confidential sales and customizable NFT access control. ActiList makes buying NFTs more interactive and engaging thanks to different types of auctions, and NFT owners for the first time have full access control over private sensitive attributes of their NFT assets. 
 
 ![Intro banner](./banner.png)
 
