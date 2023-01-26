@@ -10,7 +10,7 @@ ActiList currently supports the desktop version. To access ActiList Auctions, us
 
 ## Explore Upcoming NFT Sales
 
-Check *<a href="https://test.actilist.io/auctions/upcoming" target="_blank">Home Page</a>* for the upcoming featured auctions. The most trending sales will be announced here well in advance so that you have time to plan those events. 
+Check *<a href="https://test.actilist.io/marketplace/upcoming" target="_blank">Home Page</a>* for the upcoming featured auctions. The most trending sales will be announced here well in advance so that you have time to plan those events. 
 
 ## Sealed Bid Auction
 
