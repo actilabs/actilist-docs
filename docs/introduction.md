@@ -5,44 +5,48 @@ sidebar_label: Intro
 
 # ActiList - an Interactive NFT Marketplace with Secret Auctions and Access Control
 
-Welcome to ActiList, a first interactive NFT marketplace with confidential sales and customizable NFT access control.
-
-ActiList makes buying NFTs more interactive and engaging, thanks to different types of auctions and NFT owners for the first time have full access control over private sensitive attributes of their NFT assets.
-
 ![Intro banner](./banner.png)
 
-**First of a kind NFT Marketplace**
+Welcome to ActiList - the first interactive NFT marketplace with gamified, confidential sales, and customizable NFT access control.
 
-ActiList is the first of its kind trustless NFT marketplace providing unmatched level of data privacy to auction participants and perspective owners. Sensitive NFT metadata such as ownership details and transaction history are hidden by default and only NFT owners can make this information public if there is a wish to do so. The same holds true for any data stored inside NFT.
+### <p align="center">We gamified the NFT Marketplace experience</p> 
 
-Full access control over private NFT attributes starts a new era of NFT development making NFTs more like containers of value, which can represent any sensitive data making NFT utility almost limitless.
+Buying NFTs on ActiList is engaging and interactive, with many different types of gamified auctions. There are many NFT marketplaces out there, but there is one problem with all of them. They are all exactly the same experience! We realized that having only one type of public auction can become very boring, so we decided to change the way marketplaces work!
 
-**Powered by Secret Network blockchain**
+There are dozens of different auction types in the world, and the variances of each are nearly limitless, however with a public blockchain as the platform, the usable amount becomes very limited.
 
-ActiList runs on the Secret Network blockchain which uses the state of the art technology infrastructure for running computations over encrypted data. Your private data inside NFT is encrypted on hardware level with SGX technology and no one except you has access to it. You get to choose what you share, with whom and how. Over time, ActiList is going to provide portability for NFT assets from other popular blockhains, providing customizable privacy as additional feature to existing NFTs. We are privacy pioneers and want our users to be the true owners of their data.
+Because we are building on Secret Network with private by default smart contracts, we are able to offer auction types with gamification, where surprise and strategy can be utilized like sealed bid auctions or two-step auctions. No public blockchain could offer these exciting auction styles, but we are pioneers!
 
-**What is Secret Network and how it works**
+### <p align="center">ActiList and Secret Network are redefining what is possible with NFTs</p>
 
-Secret Network blockchain is a privacy-oriented blockchain that brings data confidentiality to decentralized applications. Its smart contracts are called Secret Contracts and allow dapps to use private data on Secret, similar to how smart contracts operate on other blockchains.
+As a trustless NFT marketplace that provides an unmatched level of control over your digital assets and data privacy, ActiList is reimagining what is possible for NFT marketplaces.
 
-Unlike other blockchains, Secret Network keeps all application data private and only the user decides what information can be shared with whom, when and how. Secret Network supports a special standard - snip721 (also called Secret NFT).
+ActiList runs on the Secret Network blockchain, which uses a state-of-the-art infrastructure for running computations over encrypted data. Your private data inside the NFT is encrypted using enterprise-grade SGX technology.
 
-NFT auctions are making ActiList a highly interactive and engaging place to buy and sell NFTs. Elements of the game and uncertainty of the outcome are adding more energy to the process.
+This technology allows creators the ability to add private metadata paired with viewing key technology to NFTs on the Secret Network.
 
-Active users will be rewarded and there is always a chance of buying a valuable NFT for just a fraction of its market value.
+With Secret NFTs, any Sensitive metadata such as ownership details, transaction history, and any data stored inside the NFT are hidden by default. Only the NFT owners can make this information public. As an owner, you control what and when you share, with whom, and how it is shared.
 
-**Reliable platform for NFT creators**
+You can revoke access to your NFT data at any time as well! Full access control over private NFT attributes starts a new era of NFT development, making NFTs more like containers of value that unlock nearly limitless utility potential!
 
-For NFT owners, ActiList is going to be a reliable platform to promote their NFTs with the upcoming auctions. It is a time consuming process to create art NFTs or any other valuable NFTs. That time can still be used by artists and creators to raise awareness of the product they are building.
+Secret NFTs open new worlds of use cases that have never been possible before. Suddenly things like movies, music albums, and private collections become possible. True digital ownership becomes possible!
 
-To support this, there is an option to create an auction with a future start date. Auction would not start without a submitted NFT, but anyone interested could set a reminder to be notified about proceedings of the auction.
+### <p align="center">ActList is built to be interactive, exciting, and rewarding!</p>
 
-Since winning the hackathon and receiving the development grant from Secret Network in early 2022, our team has been busy implementing the first type of NFT auction which will be Sealed Bid Auction.
+Having multiple unique NFT auction types makes ActiList a highly interactive and engaging place to buy and sell NFTs. Each auction type has different elements of gamification and with privacy features, the uncertainty of the outcomes and strategy involved adds high energy to participating in the marketplace!
 
-As now this is done and after successful go-live around the end of the year, we will be gradually adding new auction types and improving overall user experience.
+Active users will be rewarded for certain activities, like bidding on NFTs, creating auctions, or verifying auctions. So on top of giving you chances to buy valuable NFTs for a fraction of their market value, ActiList also rewards you directly for active participation!
 
-For the next major changes, we will be reaching out to the community to align our development work with your expectations.
+### <p align="center"> Get more value out of your time!</p>
 
+For NFT owners ActiList will be the premium platform for promoting their NFTs by using the Upcoming Auctions interface.
 
+Creating NFT art and other valuable NFTs is a time-consuming process. Using this auction mechanic, an artist can raise awareness of their project at the same time as they are creating it! This option allows the creator to create an auction with a future start date. The auction would not start without a complete NFT submitted, but anyone interested could set a reminder to be notified about the proceedings of the auction. And everyone can get a preview before it drops!
 
+### <p align="center"> The future is bright</p>
 
+Since winning the hackathon and receiving the development grant from Secret Network in early 2022 our team has successfully gone live with the first type of NFT auction - the Sealed Bid Auction. We will be adding new auction types and improving the overall user experience regularly over time.
+
+ActiList also has big plans to provide portability of NFT assets from other popular blockchains, providing customizable privacy as an additional feature to existing NFTs. We are privacy pioneers and want our users to be the true owners of their data.
+
+For the next major changes, we will be reaching out to the community to align our development work with your expectations. So be sure to join our community channels in Discord and Telegram and join the conversation!
