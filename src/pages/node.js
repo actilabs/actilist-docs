@@ -8,7 +8,7 @@ const Node = () => {
         const res = await fetch(
           'https://core.spartanapi.dev/secret/chains/secret-4/validators',
         ).then((r) => r.json())
-        console.log(res, 'resulte')
+
         const actilistNode = res.validators.find((node) =>
           node.moniker.includes('ActiList'),
         )
