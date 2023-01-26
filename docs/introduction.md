@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Intro
 ---
 
-# ActiList - an Interactive NFT Marketplace with Secret Auctions and Access Control
+# ActiList - Interactive NFT Marketplace with Secret Auctions and Access Control
 
 Welcome to ActiList - the first interactive NFT marketplace with gamified, confidential sales, and customizable NFT access control.
 
