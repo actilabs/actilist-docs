@@ -6,9 +6,10 @@ const Node = () => {
     const getNodeMetrics = async () => {
       try {
         const res = await fetch(
-          'https://core.spartanapi.dev/secret/chains/secret-4/validators',
+          'https://lcd.secret.express/cosmos/staking/v1beta1/validators?pagination.limit=1000',
         ).then((r) => r.json())
 
+        console.log("resource: ", res)
         const actilistNode = res.validators.find((node) =>
           node.moniker.includes('ActiList'),
         )
